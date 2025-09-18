@@ -1,0 +1,13 @@
+{
+  "model_name": "t5-small",
+  "train_file": "../data/processed/enhanced_training_data.jsonl",
+  "val_file": "../data/processed/enhanced_test_data.jsonl",
+  "output_dir": "../models/geez_t5_enhanced",
+  "batch_size": 16,
+  "num_epochs": 20,
+  "learning_rate": 0.0003,
+  "warmup_steps": 100,
+  "max_grad_norm": 1.0,
+  "max_length": 128,
+  "seed": 42
+}

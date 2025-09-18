@@ -1,0 +1,130 @@
+{
+  "samples": [
+    {
+      "input": "ንጉሥ፥ቤተ፥ክርስትያን።ነቢይ",
+      "prediction": "<extra_id_0>",
+      "reference": "መንግሥት፥ንጉሥ፥ቤተ፥ክርስትያን።ነቢይ",
+      "correct": false
+    },
+    {
+      "input": "ቤተ፥ዓለም፨፨ነቢይ",
+      "prediction": "<extra_id_0>",
+      "reference": "ቤተ፥ዓለም፨ነቢይ",
+      "correct": false
+    },
+    {
+      "input": "ንጉሥ፧ቤተ፣ነቢይ፥፨ንጹህ",
+      "prediction": "<extra_id_0>",
+      "reference": "ንጉሥ፧ቤተ፣ነቢይ፨ንጹህ",
+      "correct": false
+    },
+    {
+      "input": "ንጹህ፤ንጉሥ።ሰላም፨መጽሐፍ፦ቤተ፦፡ነገር",
+      "prediction": "<extra_id_0>",
+      "reference": "ንጹህ፤ንጉሥ።ሰላም፨መጽሐፍ፦ቤተ፦ነገር",
+      "correct": false
+    },
+    {
+      "input": "እግዚአብሔር፥ቤተክርስቲያንክርስትያን",
+      "prediction": "<extra_id_0>",
+      "reference": "እግዚአብሔር፥ቤተክርስቲያን፧ክርስትያን",
+      "correct": false
+    },
+    {
+      "input": "መሰንበት።ቤተ፦ክርስትያን፧አምላክ፧መጽሐፍ፣ነገር",
+      "prediction": "<extra_id_0>",
+      "reference": "መሰንበት።ሕዝብ፣ቤተ፦ክርስትያን፧አምላክ፧መጽሐፍ፣ነገር",
+      "correct": false
+    },
+    {
+      "input": "ቅዱስእስራኤል፥መንግሥት",
+      "prediction": "<extra_id_0>",
+      "reference": "ቅዱስ፧እስራኤል፥መንግሥት",
+      "correct": false
+    },
+    {
+      "input": "ንጉሠ፣ነገሥታት፨መጽሐፍ፡ሕዝብ፧ነቢይ፦ሰላም፡፦ወልድ፡ዓለም",
+      "prediction": "<extra_id_0>",
+      "reference": "ንጉሠ፣ነገሥታት፨መጽሐፍ፡ሕዝብ፧ነቢይ፦ሰላም፦ወልድ፡ዓለም",
+      "correct": false
+    },
+    {
+      "input": "ንጹህ፤አምላክ፣ቤተክርስቲያን፤እስራኤል፣።እግዚአብሔር",
+      "prediction": "<extra_id_0>",
+      "reference": "ንጹህ፤አምላክ፣ቤተክርስቲያን፤እስራኤል፣እግዚአብሔር",
+      "correct": false
+    },
+    {
+      "input": "ቤተክርስቲያን፨ዓለም፤ነቢይቅዱስ",
+      "prediction": "<extra_id_0>",
+      "reference": "ቤተክርስቲያን፨ዓለም፤ነቢይ፤ቅዱስ",
+      "correct": false
+    },
+    {
+      "input": "ንጉሠ፡ዓለም፦ነቢይ፤መጽሐፍ፦ክርስትያን፧ቅዱስ፤ቤተ",
+      "prediction": "<extra_id_0>",
+      "reference": "ንጉሠ፡ሕዝብ፦ነቢይ፤መጽሐፍ፦ክርስትያን፧ቅዱስ፤ቤተ",
+      "correct": false
+    },
+    {
+      "input": "ሰላም፦መሰንበት፧ነቢይ፦ነገሥታት።ንጉሠ፥ወልድ፡ንጉሥ፡ዓለም",
+      "prediction": "<extra_id_0>",
+      "reference": "ሰላም፦መሰንበት፧ነቢይ፦ጸሎት።ንጉሠ፥ወልድ፡ንጉሥ፡ዓለም",
+      "correct": false
+    },
+    {
+      "input": "ቤተ፨አምላክ፦ምድር፧ነገሥታት።፤ንጉሥ፥ዓለም",
+      "prediction": "<extra_id_0>",
+      "reference": "ቤተ፨አምላክ፦ምድር፧ነገሥታት፤ንጉሥ፥ዓለም",
+      "correct": false
+    },
+    {
+      "input": "ነገደ፨መጽሐፍወልድ፥መንግሥት፥ንጉሠ",
+      "prediction": "<extra_id_0>",
+      "reference": "ነገደ፨መጽሐፍ፣ወልድ፥መንግሥት፥ንጉሠ",
+      "correct": false
+    },
+    {
+      "input": "እግዚአብሔር፣ዓለም፧ሰማይ፤ወልድ፧አምላክ፡መሰንበት።ነገደ",
+      "prediction": "<extra_id_0>",
+      "reference": "እግዚአብሔር፣ዓለም፧ሰማይ፤ወልድ፧አምላክ፡መሰንበት።ቤተክርስቲያን",
+      "correct": false
+    },
+    {
+      "input": "እስራኤል፨መንግሥት፤ንጉሠ፡መሰንበት",
+      "prediction": "<extra_id_0>",
+      "reference": "እስራኤል፨ንጹህ፤ንጉሠ፡መሰንበት",
+      "correct": false
+    },
+    {
+      "input": "ነገደ፤፣ንጉሠ፥አምላክ፧ዓለም",
+      "prediction": "<extra_id_0>",
+      "reference": "ነገደ፣ንጉሠ፥አምላክ፧ዓለም",
+      "correct": false
+    },
+    {
+      "input": "ነገር፧ነገደ፧ዓለም፧መሰንበት፥ጸሎት፦ክርስትያን፣አምላክ።፤ቤተክርስቲያን",
+      "prediction": "<extra_id_0>",
+      "reference": "ነገር፧ነገደ፧ዓለም፧መሰንበት፥ጸሎት፦ክርስትያን፣አምላክ፤ቤተክርስቲያን",
+      "correct": false
+    },
+    {
+      "input": "ቤተክርስቲያን፨ሰማይ፧ነገሥታት",
+      "prediction": "<extra_id_0>",
+      "reference": "ቤተክርስቲያን፨ሰማይ፧ነገደ፥ነገሥታት",
+      "correct": false
+    },
+    {
+      "input": "ክርስትያን፦መጽሐፍ፡ቅዱስ፡።ሕዝብ",
+      "prediction": "<extra_id_0>",
+      "reference": "ክርስትያን፦መጽሐፍ፡ቅዱስ።ሕዝብ",
+      "correct": false
+    }
+  ],
+  "metrics": {
+    "bleu": 0.0,
+    "exact_match": 0.0,
+    "char_accuracy": 0.0,
+    "num_samples": 20
+  }
+}

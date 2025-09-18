@@ -1,0 +1,92 @@
+[
+  {
+    "input": "እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "target": "፡እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "prediction": "restore restore:",
+    "input_length": 25,
+    "target_length": 26,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "ወኮነ፡በዓመተ፡አርብዓ፡ወሰማንያ፡ለአርብዓ፡ዓመት፡ለንጉሥነ፡ዳዊት፡ወለልደቱ፡ሰሎሞን",
+    "target": "፡ወኮነ፡በዓመተ፡ስምንት፡ወሰማንያ፡ለንጉሥነ፡ዳዊት፡ወለልደቱ፡ሰሎሞን",
+    "prediction": "restore restore:",
+    "input_length": 50,
+    "target_length": 41,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "እግዚአብሔር፡ለእግዚአብሔር፡ነገረ፡ንጉሥ፡ለንጉሥ፡ነገረ",
+    "target": "፡እግዚአብሔር፡ከመ፡እመንበረ፡ምድር፡ወከመ፡እምንትን፡አንተ፡ነበርከ",
+    "prediction": "restore restore:",
+    "input_length": 33,
+    "target_length": 40,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "በሰማይ፡ወበምድር፡ወበገጸ፡ምድር፡ወበነገሩ፡ኵሎ፡ዘእንበለ፡ይኩን",
+    "target": "፡ወምድር፡ትኩን፡ትህቅ፡ወባዳ፡ወጽልመት፡እስከ፡ላዕሌሃ",
+    "prediction": "restore restore:",
+    "input_length": 38,
+    "target_length": 32,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "በሰማይ፡ወበምድር፡ወበገጸ፡ምድር፡ወበነገሩ፡ኵሎ፡ዘእንበለ፡ይኩን",
+    "target": "፡ወምድር፡ትኩን፡ትህቅ፡ወባዳ፡ወጽልመት፡እስከ፡ላዕሌሃ",
+    "prediction": "restore restore:",
+    "input_length": 38,
+    "target_length": 32,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "እግዚአብሔር፡ለእግዚአብሔር፡ነገረ፡ንጉሥ፡ለንጉሥ፡ነገረ",
+    "target": "፡እግዚአብሔር፡ከመ፡እመንበረ፡ምድር፡ወከመ፡እምንትን፡አንተ፡ነበርከ",
+    "prediction": "restore restore:",
+    "input_length": 33,
+    "target_length": 40,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "target": "፡እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "prediction": "restore restore:",
+    "input_length": 25,
+    "target_length": 26,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "target": "፡እግዚአብሔር፡አምላክ፡እስራኤል፡ንጹሕ፡ነው",
+    "prediction": "restore restore:",
+    "input_length": 25,
+    "target_length": 26,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "፡ወምድር፡ትኩን፡ትህቅ፡ወባዳ፡ወጽልመት፡እስከ፡ላዕሌሃ",
+    "target": "፡ወመንፈሰ፡አምላክ፡ይነፍስ፡እምበርሴት፡ማይ፡ወአስተብህሎ፡ኵሎ",
+    "prediction": "restore restore:",
+    "input_length": 32,
+    "target_length": 37,
+    "prediction_length": 16,
+    "exact_match": false
+  },
+  {
+    "input": "፡ወምድር፡ትኩን፡ትህቅ፡ወባዳ፡ወጽልመት፡እስከ፡ላዕሌሃ",
+    "target": "፡ወመንፈሰ፡አምላክ፡ይነፍስ፡እምበርሴት፡ማይ፡ወአስተብህሎ፡ኵሎ",
+    "prediction": "restore restore:",
+    "input_length": 32,
+    "target_length": 37,
+    "prediction_length": 16,
+    "exact_match": false
+  }
+]
